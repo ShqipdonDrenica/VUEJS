@@ -12,11 +12,13 @@
                 <li>Contact</li>
             </ul>
         </div>
+        
+    <h2>Footer</h2>
     </div>
 </template>
 <script>
 export default {
-    name: 'Home',
+    name: 'Footer',
     data:function(){
         return{
             logoubt:"https://www.ubt-uni.net/wp-content/themes/university-of-business-and-technology/repository/logo.png"
